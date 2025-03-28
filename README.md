@@ -28,4 +28,5 @@ Cài đặt Node.js và Android Studio.
     npx cap run android
 3. Sau khi chạy ứng dụng:
   - Nhập ngày tháng: vd:2806
-  - Ấn button "Tính ngày còn lại" để tính
+  - Nhấn nút "Tính ngày còn lại" để tính
+  - Nhấn nút "Chia sẻ kết quả" để có thể share kết quả cho người khác
